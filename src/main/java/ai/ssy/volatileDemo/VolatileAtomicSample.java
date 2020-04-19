@@ -1,4 +1,4 @@
-package ai.ssy;
+package ai.ssy.volatileDemo;
 
 /**
  * volatile无法保证原子性

@@ -1,4 +1,4 @@
-package ai.ssy;
+package ai.ssy.volatileDemo;
 
 import sun.misc.Unsafe;
 

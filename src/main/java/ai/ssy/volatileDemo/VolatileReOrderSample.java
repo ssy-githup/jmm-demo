@@ -1,4 +1,4 @@
-package ai.ssy;
+package ai.ssy.volatileDemo;
 
 /**
  * 测试在并发的场景下
