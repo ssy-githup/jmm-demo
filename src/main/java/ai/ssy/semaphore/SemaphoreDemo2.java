@@ -51,7 +51,6 @@ public class SemaphoreDemo2 {
         }
 
     }
-
     private static void resolve(int i) throws InterruptedException {
         System.out.printf(sdf.format(new Date()) + " 服务号%d，受理业务中。。。%n", i);
         Thread.sleep(2000);
